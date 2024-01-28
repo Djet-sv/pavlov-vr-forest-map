@@ -1,0 +1,2182 @@
+{
+	"Files": [
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/trees_bark_a_02.uasset",
+			"ChunkId": "4c5fd9344936ab9d00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/trees_bark_a_02.ubulk",
+			"ChunkId": "4c5fd9344936ab9d00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Terrain/TerrainMiddle.uasset",
+			"ChunkId": "dee211e82bb1c5a400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Skins/PlayerSkinTable.uasset",
+			"ChunkId": "745934880be8597d00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Tree5/Door.uasset",
+			"ChunkId": "134426977529d51a00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/Walls.uasset",
+			"ChunkId": "104fdeb72238760900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/Tunnels.uasset",
+			"ChunkId": "f3312a721e82389d00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/Rails.uasset",
+			"ChunkId": "23781bd9b621289700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/Pillars.uasset",
+			"ChunkId": "18e5dac1596b2e6400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Gravel_Ground_xdusfjy/T_Gravel_Ground_xdusfjy_1K_N.uasset",
+			"ChunkId": "80e2e33af8aee6e400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Gravel_Ground_xdusfjy/T_Gravel_Ground_xdusfjy_1K_N.ubulk",
+			"ChunkId": "80e2e33af8aee6e400000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Mossy_LayerInfo.uasset",
+			"ChunkId": "1771e6c1e6c1bdcf00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Gravel_LayerInfo.uasset",
+			"ChunkId": "813808c399ddd7c000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/StalkerSky.uasset",
+			"ChunkId": "361d223682eacc7800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/NewMaterial.uasset",
+			"ChunkId": "1728e6a1087fbb4c00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Mossy_LayerInfo.uasset",
+			"ChunkId": "4a7e4aa6b4e9871500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grmd_material1.uasset",
+			"ChunkId": "8e12157497d60a0e00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Gravel_LayerInfo.uasset",
+			"ChunkId": "1dc8e75d9e0fc5d000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/sign_bioh.uasset",
+			"ChunkId": "b1a49a56822a006a00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/sign_bioh.ubulk",
+			"ChunkId": "b1a49a56822a006a00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/prop_vagon_iov_d.uasset",
+			"ChunkId": "08ec6701f979694700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/prop_vagon_iov_d.ubulk",
+			"ChunkId": "08ec6701f979694700000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/trees_elka_sux.uasset",
+			"ChunkId": "e262229763c1e5a300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/trees_elka_sux.ubulk",
+			"ChunkId": "e262229763c1e5a300000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/trees_elkabark.uasset",
+			"ChunkId": "0b07cd5353fbe3b600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/trees_elkabark.ubulk",
+			"ChunkId": "0b07cd5353fbe3b600000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Mossy_Ground_vl1lfb3fw/T_MossyGround_vl1lfb3fw_1K_ORDp.uasset",
+			"ChunkId": "9c37321200f9956a00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Mossy_Ground_vl1lfb3fw/T_MossyGround_vl1lfb3fw_1K_ORDp.ubulk",
+			"ChunkId": "9c37321200f9956a00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/wood.uasset",
+			"ChunkId": "9eefa0cc6473424800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/wood.ubulk",
+			"ChunkId": "9eefa0cc6473424800000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Stone_Wall_vddjdfm/T_Stone_Wall_vddjdfm_1K_D.uasset",
+			"ChunkId": "796adad37daa2b5700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Stone_Wall_vddjdfm/T_Stone_Wall_vddjdfm_1K_D.ubulk",
+			"ChunkId": "796adad37daa2b5700000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Gravel_Ground_xdusfjy/T_Gravel_Ground_xdusfjy_1K_D.uasset",
+			"ChunkId": "d286b80c34cc4d5300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Gravel_Ground_xdusfjy/T_Gravel_Ground_xdusfjy_1K_D.ubulk",
+			"ChunkId": "d286b80c34cc4d5300000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Mossy_Ground_xiboab2r/T_Mossy_Ground_xiboab2r_1K_N.uasset",
+			"ChunkId": "eeee7c767c71798b00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Mossy_Ground_xiboab2r/T_Mossy_Ground_xiboab2r_1K_N.ubulk",
+			"ChunkId": "eeee7c767c71798b00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Mossy_Ground_xiboab2r/T_Mossy_Ground_xiboab2r_1K_D.uasset",
+			"ChunkId": "7d9ba633c344ad3f00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Mossy_Ground_xiboab2r/T_Mossy_Ground_xiboab2r_1K_D.ubulk",
+			"ChunkId": "7d9ba633c344ad3f00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Mossy_Ground_xiboab2r/T_MossyGround_xiboab2r_1K_ORDp.uasset",
+			"ChunkId": "5702e8cd34f0f35700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Mossy_Ground_xiboab2r/T_MossyGround_xiboab2r_1K_ORDp.ubulk",
+			"ChunkId": "5702e8cd34f0f35700000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/House8.uasset",
+			"ChunkId": "42dc348f746bbbfc00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/House7.uasset",
+			"ChunkId": "4b6868fa28dcce7900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/House69_House9.uasset",
+			"ChunkId": "43a859442880fdf600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Rusty_Shipping_Container_vl3iaiedy/T_Rusty_Shipping_Container_vl3iaiedy_1K_N.uasset",
+			"ChunkId": "51bb66e2cd5df5f100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Rusty_Shipping_Container_vl3iaiedy/T_Rusty_Shipping_Container_vl3iaiedy_1K_N.ubulk",
+			"ChunkId": "51bb66e2cd5df5f100000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/House69_House6.uasset",
+			"ChunkId": "a4805879608986d100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/House2Soffa.uasset",
+			"ChunkId": "4dc07e6dbcdff57700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/Ceemps.uasset",
+			"ChunkId": "8b61c5085cdf33a500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/Bridge_normal_6564.uasset",
+			"ChunkId": "63010cbd359cba2600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/Bridge_normal_6523.uasset",
+			"ChunkId": "9c78db723b1964df00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/BridgeDown.uasset",
+			"ChunkId": "0e3bc77dca67a71300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/Base45_progressive_091.uasset",
+			"ChunkId": "df8f2d26f10540b500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/Base45_normal_7373.uasset",
+			"ChunkId": "3fd55efe4a2d2bcf00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Rusty_Shipping_Container_vl3iaiedy/T_Rusty_Shipping_Container_vl3iaiedy_1K_D.uasset",
+			"ChunkId": "c2b4827cbbdd8bc400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Rusty_Shipping_Container_vl3iaiedy/T_Rusty_Shipping_Container_vl3iaiedy_1K_D.ubulk",
+			"ChunkId": "c2b4827cbbdd8bc400000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/Base45_normal_6744.uasset",
+			"ChunkId": "9ae61bff3ecfc10e00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/Base45_normal_091.uasset",
+			"ChunkId": "8b2b3887a5d990ea00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Rusty_Shipping_Container_vl3iaiedy/T_RustyShippingContainer_vl3iaiedy_1K_ORDp.uasset",
+			"ChunkId": "5ada389809bccefc00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Rusty_Shipping_Container_vl3iaiedy/T_RustyShippingContainer_vl3iaiedy_1K_ORDp.ubulk",
+			"ChunkId": "5ada389809bccefc00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Stone_Wall_vddjdfm/T_Stone_Wall_vddjdfm_1K_N.uasset",
+			"ChunkId": "2dd20987c6b44f0a00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Stone_Wall_vddjdfm/T_Stone_Wall_vddjdfm_1K_N.ubulk",
+			"ChunkId": "2dd20987c6b44f0a00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/Base1_normal_897.uasset",
+			"ChunkId": "bcef5d76357fa3a400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/Base1_normal_6291.uasset",
+			"ChunkId": "c5de151dfef7ab5100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/Base1_normal_6259.uasset",
+			"ChunkId": "6eeac1df9a3bb14300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/Base1_normal_6216.uasset",
+			"ChunkId": "0e504ca13d31758400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Stone_Wall_vddjdfm/T_StoneWall_vddjdfm_1K_ORDp.uasset",
+			"ChunkId": "60d310cf206bb0cc00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Stone_Wall_vddjdfm/T_StoneWall_vddjdfm_1K_ORDp.ubulk",
+			"ChunkId": "60d310cf206bb0cc00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Builder/Base1_normal_6168.uasset",
+			"ChunkId": "b513782d1c2b9c4b00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Mossy_Ground_xiboab2r/T_Mossy_Ground_xiboab2r_1K_N.uasset",
+			"ChunkId": "d04dc42a0dcabc7900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Mossy_Ground_xiboab2r/T_Mossy_Ground_xiboab2r_1K_N.ubulk",
+			"ChunkId": "d04dc42a0dcabc7900000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Mossy_Ground_xiboab2r/T_Mossy_Ground_xiboab2r_1K_D.uasset",
+			"ChunkId": "e898303c41b8bef300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Mossy_Ground_xiboab2r/T_Mossy_Ground_xiboab2r_1K_D.ubulk",
+			"ChunkId": "e898303c41b8bef300000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Mossy_Ground_xiboab2r/T_MossyGround_xiboab2r_1K_ORDp.uasset",
+			"ChunkId": "bf51462c0e3dba8300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Mossy_Ground_xiboab2r/T_MossyGround_xiboab2r_1K_ORDp.ubulk",
+			"ChunkId": "bf51462c0e3dba8300000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Gravel_Ground_xdusfjy/T_Gravel_Ground_xdusfjy_1K_N.uasset",
+			"ChunkId": "23f2f179742f1cc700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Gravel_Ground_xdusfjy/T_Gravel_Ground_xdusfjy_1K_N.ubulk",
+			"ChunkId": "23f2f179742f1cc700000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Fireplace/Box.uasset",
+			"ChunkId": "926c067e51941c0e00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Gravel_Ground_xdusfjy/T_Gravel_Ground_xdusfjy_1K_D.uasset",
+			"ChunkId": "96c8ab82800cf6cc00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Gravel_Ground_xdusfjy/T_Gravel_Ground_xdusfjy_1K_D.ubulk",
+			"ChunkId": "96c8ab82800cf6cc00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Mossy_Ground_vl1lfb3fw/T_Mossy_Ground_vl1lfb3fw_1K_N.uasset",
+			"ChunkId": "800fa31650c29a8300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Mossy_Ground_vl1lfb3fw/T_Mossy_Ground_vl1lfb3fw_1K_N.ubulk",
+			"ChunkId": "800fa31650c29a8300000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Mossy_Ground_vl1lfb3fw/T_Mossy_Ground_vl1lfb3fw_1K_D.uasset",
+			"ChunkId": "90e5d0d5f476f86300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Mossy_Ground_vl1lfb3fw/T_Mossy_Ground_vl1lfb3fw_1K_D.ubulk",
+			"ChunkId": "90e5d0d5f476f86300000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_zil.uasset",
+			"ChunkId": "0f36be5a78ef5b0700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_zil.ubulk",
+			"ChunkId": "0f36be5a78ef5b0700000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_vagoni_cpm.uasset",
+			"ChunkId": "b02e89fd31fd331f00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_vagoni_cpm.ubulk",
+			"ChunkId": "b02e89fd31fd331f00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_vagon1_01.uasset",
+			"ChunkId": "bc2da5bfe79c872400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_vagon1_01.ubulk",
+			"ChunkId": "bc2da5bfe79c872400000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_uaz_2.uasset",
+			"ChunkId": "b2184ddec573a16600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_uaz_2.ubulk",
+			"ChunkId": "b2184ddec573a16600000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_uazik_new.uasset",
+			"ChunkId": "455cb608c7b2019600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_uazik_new.ubulk",
+			"ChunkId": "455cb608c7b2019600000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_molokovoz.uasset",
+			"ChunkId": "8e3d3d08a9612ab800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_molokovoz.ubulk",
+			"ChunkId": "8e3d3d08a9612ab800000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_lada_br.uasset",
+			"ChunkId": "6dd1aaeb0f8bef3c00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_lada_br.ubulk",
+			"ChunkId": "6dd1aaeb0f8bef3c00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_kamaz_u_br.uasset",
+			"ChunkId": "7346abc41c603e5300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_kamaz_u_br.ubulk",
+			"ChunkId": "7346abc41c603e5300000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_ekskavator_kovsh.uasset",
+			"ChunkId": "a4d776703e27ab0600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_ekskavator_kovsh.ubulk",
+			"ChunkId": "a4d776703e27ab0600000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_ekskavator.uasset",
+			"ChunkId": "b1480820d7baf88500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_ekskavator.ubulk",
+			"ChunkId": "b1480820d7baf88500000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_bochka_pricep.uasset",
+			"ChunkId": "c27f70a1b549b9ff00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/veh_bochka_pricep.ubulk",
+			"ChunkId": "c27f70a1b549b9ff00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/trees_vetkabig.uasset",
+			"ChunkId": "b0e80de6e9e7b04c00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/trees_vetkabig.ubulk",
+			"ChunkId": "b0e80de6e9e7b04c00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/trees_sosna.uasset",
+			"ChunkId": "d1ed2d83d359a57100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/trees_sosna.ubulk",
+			"ChunkId": "d1ed2d83d359a57100000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/trees_bark_sosna_01.uasset",
+			"ChunkId": "4fa2996195fa9e2900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/trees_bark_sosna_01.ubulk",
+			"ChunkId": "4fa2996195fa9e2900000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/Tree7.uasset",
+			"ChunkId": "7c9ce2b98fb2eb9700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/tree1lod.uasset",
+			"ChunkId": "cb4eefee0a59a1ff00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/tree-leaves-texture-png-1-Transparent-Images.uasset",
+			"ChunkId": "b87ab0498ebe6b3600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/tree-leaves-texture-png-1-Transparent-Images.ubulk",
+			"ChunkId": "b87ab0498ebe6b3600000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/ston_stripes_iov.uasset",
+			"ChunkId": "71049fa1399dad4b00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/ston_stripes_iov.ubulk",
+			"ChunkId": "71049fa1399dad4b00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/ston_briks_ch_iov.uasset",
+			"ChunkId": "2b3e0e94820c178700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/ston_briks_ch_iov.ubulk",
+			"ChunkId": "2b3e0e94820c178700000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/ston_br2_iov.uasset",
+			"ChunkId": "9ba148d68f7922f800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/ston_br2_iov.ubulk",
+			"ChunkId": "9ba148d68f7922f800000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/ston_beton_ch_15.uasset",
+			"ChunkId": "80e6209e002cfa3100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/ston_beton_ch_15.ubulk",
+			"ChunkId": "80e6209e002cfa3100000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/snowtexture.uasset",
+			"ChunkId": "7c604031bca56c3000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/sign_rad.uasset",
+			"ChunkId": "39cbe79ef75bcba400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/sign_rad.ubulk",
+			"ChunkId": "39cbe79ef75bcba400000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Blueprints/AnomTeleport.uasset",
+			"ChunkId": "cde1c245b63b0a3100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Rail2.uasset",
+			"ChunkId": "253d89aafecb1e1d00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/definition.uasset",
+			"ChunkId": "8feeed31c111b7e500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/bark.uasset",
+			"ChunkId": "443c16f9b70652a000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/prop_door9.uasset",
+			"ChunkId": "6734a80db2388f8600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/prop_door9.ubulk",
+			"ChunkId": "6734a80db2388f8600000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/png-transparent-cloud-fog-white-desktop-mist-cloud-white-atmosphere-cloud-thumbnail.uasset",
+			"ChunkId": "281ae4d3046ed3b400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Sounds/650f9f918d849ea.uasset",
+			"ChunkId": "646584333f992ee100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Sounds/650f9f918d849ea.ubulk",
+			"ChunkId": "646584333f992ee100000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/metal.uasset",
+			"ChunkId": "762ccc9668ed7cbb00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/metal.ubulk",
+			"ChunkId": "762ccc9668ed7cbb00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/grnd_zemlya.uasset",
+			"ChunkId": "26174e91f2cc592b00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/grnd_zemlya.ubulk",
+			"ChunkId": "26174e91f2cc592b00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/grnd_j_asfalt_04a.uasset",
+			"ChunkId": "81aaef51f10d34b700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/grnd_j_asfalt_04a.ubulk",
+			"ChunkId": "81aaef51f10d34b700000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/grnd_grass1.uasset",
+			"ChunkId": "22a34355b8f3e1c900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/grnd_grass1.ubulk",
+			"ChunkId": "22a34355b8f3e1c900000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/grnd_dirt2.uasset",
+			"ChunkId": "3c74ad9ac77a08a100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/grnd_dirt2.ubulk",
+			"ChunkId": "3c74ad9ac77a08a100000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/door_gr_iov_01.uasset",
+			"ChunkId": "279c7049897effd100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/door_gr_iov_01.ubulk",
+			"ChunkId": "279c7049897effd100000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/crete_schiffer3.uasset",
+			"ChunkId": "c42f6a02c1ac98ef00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/crete_schiffer3.ubulk",
+			"ChunkId": "c42f6a02c1ac98ef00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/concrete.uasset",
+			"ChunkId": "306f777f7fbbd1ca00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/concrete.ubulk",
+			"ChunkId": "306f777f7fbbd1ca00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/Bush2Lod.uasset",
+			"ChunkId": "84f96f8bf173d9cf00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Textures/Bush2Lod.ubulk",
+			"ChunkId": "84f96f8bf173d9cf00000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Block1.uasset",
+			"ChunkId": "f6d55e8cbe1eadb600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/definition.uasset",
+			"ChunkId": "a4537aa9763a89c300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Bark.uasset",
+			"ChunkId": "d9667faf043d90f500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Skins/CMP_GlobalInfoExample1.uasset",
+			"ChunkId": "ebc8ff0813b5d25400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Rusty_Shipping_Container_vl3iaiedy/Wall2.uasset",
+			"ChunkId": "032097b5aac092fb00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Rusty_Shipping_Container_vl3iaiedy/T_Rusty_Shipping_Container_vl3iaiedy_1K_Mat.uasset",
+			"ChunkId": "a2ad140f03f3703900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Rusty_Shipping_Container_vl3iaiedy/MI_Rusty_Shipping_Container_vl3iaiedy_1K.uasset",
+			"ChunkId": "1e0a8dccff81f3e100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Stone_Wall_vddjdfm/Wall.uasset",
+			"ChunkId": "6a5aad962f24b8e600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Stone_Wall_vddjdfm/MI_Stone_Wall_vddjdfm_1K.uasset",
+			"ChunkId": "d40f6d3e20c456ba00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Mossy_Ground_xiboab2r/MI_Mossy_Ground_xiboab2r_1K.uasset",
+			"ChunkId": "00bfb30cf7e4b00800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Mossy_Ground_xiboab2r/MI_Mossy_Ground_xiboab2r_1K.uasset",
+			"ChunkId": "46456dfb5b3cc7b100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Gravel_Ground_xdusfjy/MI_Gravel_Ground_xdusfjy_1K.uasset",
+			"ChunkId": "e38af79c8673dede00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Gravel_Ground_xdusfjy/MI_Gravel_Ground_xdusfjy_1K.uasset",
+			"ChunkId": "db1ecfc9d4d7c2e700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Mossy_Ground_vl1lfb3fw/MI_Mossy_Ground_vl1lfb3fw_1K.uasset",
+			"ChunkId": "65066a2e2571f18e00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Lanscape.uasset",
+			"ChunkId": "fa15be3a17f049bd00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/IWood.uasset",
+			"ChunkId": "ef3515e8926ed43600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Zil.uasset",
+			"ChunkId": "9a7447b3a23b1de400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Veh_vagoni_cpm.uasset",
+			"ChunkId": "4e64d1a06a3a19ef00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Veh_vagon1_01.uasset",
+			"ChunkId": "78b915fef255116500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Veh_uaz_2.uasset",
+			"ChunkId": "be162e79cb6140d900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Veh_uazik.uasset",
+			"ChunkId": "502b862e1c2b083b00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Veh_molokovoz.uasset",
+			"ChunkId": "986f6b348278571400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Veh_lada_br.uasset",
+			"ChunkId": "92efc79b264ecc3d00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Veh_kamaz_u_br.uasset",
+			"ChunkId": "b7f8cf2609225c7200000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Veh_ekskavator_kovsh.uasset",
+			"ChunkId": "d700c730780b1f1500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Veh_ekskavator.uasset",
+			"ChunkId": "87907219c449bb8c00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Veh_bochka_pricep.uasset",
+			"ChunkId": "8a9f0d2e584286d900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Trees_vetkabig.uasset",
+			"ChunkId": "bd9be3b37b8e602800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Tree_sosna.uasset",
+			"ChunkId": "604708dfd683b1e400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Elka_sux.uasset",
+			"ChunkId": "5101dfc9a72b6d1900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Tree5/Elka_bark.uasset",
+			"ChunkId": "afb8e68fa6b9d24600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Bark_sosna.uasset",
+			"ChunkId": "c91ea50825ed48d500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Tree3Lod.uasset",
+			"ChunkId": "254cb1b13c39d6c900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Tree1Lod.uasset",
+			"ChunkId": "ad5f74b7f6235a6e00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/NewMaterial_Inst.uasset",
+			"ChunkId": "47a1d8c31d0ee21700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Bush.uasset",
+			"ChunkId": "b40810677ccb1a2400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Ston_stripes_iov.uasset",
+			"ChunkId": "0986c6b2e81428e000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Ston_briks_ch_iov.uasset",
+			"ChunkId": "817e4628ebeb061900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Ston_br2_iov.uasset",
+			"ChunkId": "bea8d3e1b9fdac5700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Trash.uasset",
+			"ChunkId": "5d8d849e97b929b800000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Ston_beton_ch_15.uasset",
+			"ChunkId": "60069e3405e787ab00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/RadiationSign.uasset",
+			"ChunkId": "2f40ff056975655600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/RadiationSign3.uasset",
+			"ChunkId": "bf37ed8ebf21920900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Prop_vagon_iov_d.uasset",
+			"ChunkId": "3419af63f2e0de2000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Door9.uasset",
+			"ChunkId": "3aa9ae16f6aa95cf00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/SnowGround.uasset",
+			"ChunkId": "881218c3b66eccf600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Fogg.uasset",
+			"ChunkId": "ff31a3261fa2c81200000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/IMetal.uasset",
+			"ChunkId": "5990831374131ade00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_zemlya.uasset",
+			"ChunkId": "2acb1b2908639adb00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_grass1.uasset",
+			"ChunkId": "81e0e4a16cd4d99900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_j_asfalt_04a.uasset",
+			"ChunkId": "9fe5e27e7da2d7b100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Grnd_dirt2.uasset",
+			"ChunkId": "f3301bf5b801555500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Door2.uasset",
+			"ChunkId": "1d82ddb0eae24f6900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Crete_schiffer3.uasset",
+			"ChunkId": "c37a5896cfd1e74600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/IConcrete.uasset",
+			"ChunkId": "8fdd523f6c7db1ce00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Bush1Lod.uasset",
+			"ChunkId": "0223c22e20e154fc00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Materials/Lanscape_Inst.uasset",
+			"ChunkId": "f3caf8964b1d17f000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Vagoni.uasset",
+			"ChunkId": "ba569c7db68477c400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Merged/Base0.uasset",
+			"ChunkId": "a78e3f3edbc2c97700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Merged/Base2_veh_merged.uasset",
+			"ChunkId": "46b1218baa07238900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Tree5/Elka.uasset",
+			"ChunkId": "c666f1cad2c91df600000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Tree5/PineTree.uasset",
+			"ChunkId": "3fffbf6b1dcecf2100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Tree3/tree3.uasset",
+			"ChunkId": "574f5d528695158d00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Tree1/Tree1.uasset",
+			"ChunkId": "b4f7183d19a8ff0700000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Blueprints/Door.uasset",
+			"ChunkId": "e68ee7212a85fff100000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Merged/SM_MERGED_Radiation-sign2_938.uasset",
+			"ChunkId": "bd4b26ecfcded97c00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Supply/Radiation-sign.uasset",
+			"ChunkId": "c02d0dae99e7652400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Blueprints/StalkFog.uasset",
+			"ChunkId": "30565e49e644498f00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Blueprints/My_PlayerProxyExample.uasset",
+			"ChunkId": "aa0b69fdae026de000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Bush/BushBig.uasset",
+			"ChunkId": "b6d3a0671f2e9bcf00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Merged/SM_MERGED_Tractor_11.uasset",
+			"ChunkId": "a8110b3577af7b9500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Merged/MERGED_Fireplaces.uasset",
+			"ChunkId": "1eafbe5d48a7f69900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Merged/Base2.uasset",
+			"ChunkId": "767b19bea6f36d9400000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Merged/Base1.uasset",
+			"ChunkId": "c69a2e29cff989bc00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Vagon1.uasset",
+			"ChunkId": "3fca4b6e48ce68ed00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Models/Bush/BushTree.uasset",
+			"ChunkId": "814262e418ce217b00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Blueprints/Noise.uasset",
+			"ChunkId": "1c350551fb94c4fe00000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Blueprints/BushNoise.uasset",
+			"ChunkId": "6600f3f01d7b0e1300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Cordon_BuiltData.uasset",
+			"ChunkId": "f4f0a59b36c4ae4500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Cordon_BuiltData.ubulk",
+			"ChunkId": "f4f0a59b36c4ae4500000002"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Cordon.umap",
+			"ChunkId": "1097097f7a1291b000000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC3701583/Content/SVR_GoodTime_Cordon/Cordon.ubulk",
+			"ChunkId": "1097097f7a1291b000000002"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/trees_bark_a_02",
+			"ExportBundleChunkIds": [
+				"4c5fd9344936ab9d00000001"
+			],
+			"BulkDataChunkIds": [
+				"4c5fd9344936ab9d00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Terrain/TerrainMiddle",
+			"ExportBundleChunkIds": [
+				"dee211e82bb1c5a400000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Skins/PlayerSkinTable",
+			"ExportBundleChunkIds": [
+				"745934880be8597d00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Tree5/Door",
+			"ExportBundleChunkIds": [
+				"134426977529d51a00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/Walls",
+			"ExportBundleChunkIds": [
+				"104fdeb72238760900000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/Tunnels",
+			"ExportBundleChunkIds": [
+				"f3312a721e82389d00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/Rails",
+			"ExportBundleChunkIds": [
+				"23781bd9b621289700000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/Pillars",
+			"ExportBundleChunkIds": [
+				"18e5dac1596b2e6400000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Gravel_Ground_xdusfjy/T_Gravel_Ground_xdusfjy_1K_N",
+			"ExportBundleChunkIds": [
+				"80e2e33af8aee6e400000001"
+			],
+			"BulkDataChunkIds": [
+				"80e2e33af8aee6e400000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Mossy_LayerInfo",
+			"ExportBundleChunkIds": [
+				"1771e6c1e6c1bdcf00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Gravel_LayerInfo",
+			"ExportBundleChunkIds": [
+				"813808c399ddd7c000000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/StalkerSky",
+			"ExportBundleChunkIds": [
+				"361d223682eacc7800000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/NewMaterial",
+			"ExportBundleChunkIds": [
+				"1728e6a1087fbb4c00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Mossy_LayerInfo",
+			"ExportBundleChunkIds": [
+				"4a7e4aa6b4e9871500000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Grmd_material1",
+			"ExportBundleChunkIds": [
+				"8e12157497d60a0e00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Gravel_LayerInfo",
+			"ExportBundleChunkIds": [
+				"1dc8e75d9e0fc5d000000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/sign_bioh",
+			"ExportBundleChunkIds": [
+				"b1a49a56822a006a00000001"
+			],
+			"BulkDataChunkIds": [
+				"b1a49a56822a006a00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/prop_vagon_iov_d",
+			"ExportBundleChunkIds": [
+				"08ec6701f979694700000001"
+			],
+			"BulkDataChunkIds": [
+				"08ec6701f979694700000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/trees_elka_sux",
+			"ExportBundleChunkIds": [
+				"e262229763c1e5a300000001"
+			],
+			"BulkDataChunkIds": [
+				"e262229763c1e5a300000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/trees_elkabark",
+			"ExportBundleChunkIds": [
+				"0b07cd5353fbe3b600000001"
+			],
+			"BulkDataChunkIds": [
+				"0b07cd5353fbe3b600000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Mossy_Ground_vl1lfb3fw/T_MossyGround_vl1lfb3fw_1K_ORDp",
+			"ExportBundleChunkIds": [
+				"9c37321200f9956a00000001"
+			],
+			"BulkDataChunkIds": [
+				"9c37321200f9956a00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/wood",
+			"ExportBundleChunkIds": [
+				"9eefa0cc6473424800000001"
+			],
+			"BulkDataChunkIds": [
+				"9eefa0cc6473424800000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Stone_Wall_vddjdfm/T_Stone_Wall_vddjdfm_1K_D",
+			"ExportBundleChunkIds": [
+				"796adad37daa2b5700000001"
+			],
+			"BulkDataChunkIds": [
+				"796adad37daa2b5700000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Gravel_Ground_xdusfjy/T_Gravel_Ground_xdusfjy_1K_D",
+			"ExportBundleChunkIds": [
+				"d286b80c34cc4d5300000001"
+			],
+			"BulkDataChunkIds": [
+				"d286b80c34cc4d5300000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Mossy_Ground_xiboab2r/T_Mossy_Ground_xiboab2r_1K_N",
+			"ExportBundleChunkIds": [
+				"eeee7c767c71798b00000001"
+			],
+			"BulkDataChunkIds": [
+				"eeee7c767c71798b00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Mossy_Ground_xiboab2r/T_Mossy_Ground_xiboab2r_1K_D",
+			"ExportBundleChunkIds": [
+				"7d9ba633c344ad3f00000001"
+			],
+			"BulkDataChunkIds": [
+				"7d9ba633c344ad3f00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Mossy_Ground_xiboab2r/T_MossyGround_xiboab2r_1K_ORDp",
+			"ExportBundleChunkIds": [
+				"5702e8cd34f0f35700000001"
+			],
+			"BulkDataChunkIds": [
+				"5702e8cd34f0f35700000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/House8",
+			"ExportBundleChunkIds": [
+				"42dc348f746bbbfc00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/House7",
+			"ExportBundleChunkIds": [
+				"4b6868fa28dcce7900000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/House69_House9",
+			"ExportBundleChunkIds": [
+				"43a859442880fdf600000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Rusty_Shipping_Container_vl3iaiedy/T_Rusty_Shipping_Container_vl3iaiedy_1K_N",
+			"ExportBundleChunkIds": [
+				"51bb66e2cd5df5f100000001"
+			],
+			"BulkDataChunkIds": [
+				"51bb66e2cd5df5f100000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/House69_House6",
+			"ExportBundleChunkIds": [
+				"a4805879608986d100000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/House2Soffa",
+			"ExportBundleChunkIds": [
+				"4dc07e6dbcdff57700000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/Ceemps",
+			"ExportBundleChunkIds": [
+				"8b61c5085cdf33a500000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/Bridge_normal_6564",
+			"ExportBundleChunkIds": [
+				"63010cbd359cba2600000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/Bridge_normal_6523",
+			"ExportBundleChunkIds": [
+				"9c78db723b1964df00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/BridgeDown",
+			"ExportBundleChunkIds": [
+				"0e3bc77dca67a71300000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/Base45_progressive_091",
+			"ExportBundleChunkIds": [
+				"df8f2d26f10540b500000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/Base45_normal_7373",
+			"ExportBundleChunkIds": [
+				"3fd55efe4a2d2bcf00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Rusty_Shipping_Container_vl3iaiedy/T_Rusty_Shipping_Container_vl3iaiedy_1K_D",
+			"ExportBundleChunkIds": [
+				"c2b4827cbbdd8bc400000001"
+			],
+			"BulkDataChunkIds": [
+				"c2b4827cbbdd8bc400000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/Base45_normal_6744",
+			"ExportBundleChunkIds": [
+				"9ae61bff3ecfc10e00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/Base45_normal_091",
+			"ExportBundleChunkIds": [
+				"8b2b3887a5d990ea00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Rusty_Shipping_Container_vl3iaiedy/T_RustyShippingContainer_vl3iaiedy_1K_ORDp",
+			"ExportBundleChunkIds": [
+				"5ada389809bccefc00000001"
+			],
+			"BulkDataChunkIds": [
+				"5ada389809bccefc00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Stone_Wall_vddjdfm/T_Stone_Wall_vddjdfm_1K_N",
+			"ExportBundleChunkIds": [
+				"2dd20987c6b44f0a00000001"
+			],
+			"BulkDataChunkIds": [
+				"2dd20987c6b44f0a00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/Base1_normal_897",
+			"ExportBundleChunkIds": [
+				"bcef5d76357fa3a400000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/Base1_normal_6291",
+			"ExportBundleChunkIds": [
+				"c5de151dfef7ab5100000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/Base1_normal_6259",
+			"ExportBundleChunkIds": [
+				"6eeac1df9a3bb14300000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/Base1_normal_6216",
+			"ExportBundleChunkIds": [
+				"0e504ca13d31758400000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Stone_Wall_vddjdfm/T_StoneWall_vddjdfm_1K_ORDp",
+			"ExportBundleChunkIds": [
+				"60d310cf206bb0cc00000001"
+			],
+			"BulkDataChunkIds": [
+				"60d310cf206bb0cc00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Builder/Base1_normal_6168",
+			"ExportBundleChunkIds": [
+				"b513782d1c2b9c4b00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Mossy_Ground_xiboab2r/T_Mossy_Ground_xiboab2r_1K_N",
+			"ExportBundleChunkIds": [
+				"d04dc42a0dcabc7900000001"
+			],
+			"BulkDataChunkIds": [
+				"d04dc42a0dcabc7900000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Mossy_Ground_xiboab2r/T_Mossy_Ground_xiboab2r_1K_D",
+			"ExportBundleChunkIds": [
+				"e898303c41b8bef300000001"
+			],
+			"BulkDataChunkIds": [
+				"e898303c41b8bef300000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Mossy_Ground_xiboab2r/T_MossyGround_xiboab2r_1K_ORDp",
+			"ExportBundleChunkIds": [
+				"bf51462c0e3dba8300000001"
+			],
+			"BulkDataChunkIds": [
+				"bf51462c0e3dba8300000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Gravel_Ground_xdusfjy/T_Gravel_Ground_xdusfjy_1K_N",
+			"ExportBundleChunkIds": [
+				"23f2f179742f1cc700000001"
+			],
+			"BulkDataChunkIds": [
+				"23f2f179742f1cc700000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Fireplace/Box",
+			"ExportBundleChunkIds": [
+				"926c067e51941c0e00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Gravel_Ground_xdusfjy/T_Gravel_Ground_xdusfjy_1K_D",
+			"ExportBundleChunkIds": [
+				"96c8ab82800cf6cc00000001"
+			],
+			"BulkDataChunkIds": [
+				"96c8ab82800cf6cc00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Mossy_Ground_vl1lfb3fw/T_Mossy_Ground_vl1lfb3fw_1K_N",
+			"ExportBundleChunkIds": [
+				"800fa31650c29a8300000001"
+			],
+			"BulkDataChunkIds": [
+				"800fa31650c29a8300000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Mossy_Ground_vl1lfb3fw/T_Mossy_Ground_vl1lfb3fw_1K_D",
+			"ExportBundleChunkIds": [
+				"90e5d0d5f476f86300000001"
+			],
+			"BulkDataChunkIds": [
+				"90e5d0d5f476f86300000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/veh_zil",
+			"ExportBundleChunkIds": [
+				"0f36be5a78ef5b0700000001"
+			],
+			"BulkDataChunkIds": [
+				"0f36be5a78ef5b0700000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/veh_vagoni_cpm",
+			"ExportBundleChunkIds": [
+				"b02e89fd31fd331f00000001"
+			],
+			"BulkDataChunkIds": [
+				"b02e89fd31fd331f00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/veh_vagon1_01",
+			"ExportBundleChunkIds": [
+				"bc2da5bfe79c872400000001"
+			],
+			"BulkDataChunkIds": [
+				"bc2da5bfe79c872400000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/veh_uaz_2",
+			"ExportBundleChunkIds": [
+				"b2184ddec573a16600000001"
+			],
+			"BulkDataChunkIds": [
+				"b2184ddec573a16600000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/veh_uazik_new",
+			"ExportBundleChunkIds": [
+				"455cb608c7b2019600000001"
+			],
+			"BulkDataChunkIds": [
+				"455cb608c7b2019600000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/veh_molokovoz",
+			"ExportBundleChunkIds": [
+				"8e3d3d08a9612ab800000001"
+			],
+			"BulkDataChunkIds": [
+				"8e3d3d08a9612ab800000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/veh_lada_br",
+			"ExportBundleChunkIds": [
+				"6dd1aaeb0f8bef3c00000001"
+			],
+			"BulkDataChunkIds": [
+				"6dd1aaeb0f8bef3c00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/veh_kamaz_u_br",
+			"ExportBundleChunkIds": [
+				"7346abc41c603e5300000001"
+			],
+			"BulkDataChunkIds": [
+				"7346abc41c603e5300000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/veh_ekskavator_kovsh",
+			"ExportBundleChunkIds": [
+				"a4d776703e27ab0600000001"
+			],
+			"BulkDataChunkIds": [
+				"a4d776703e27ab0600000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/veh_ekskavator",
+			"ExportBundleChunkIds": [
+				"b1480820d7baf88500000001"
+			],
+			"BulkDataChunkIds": [
+				"b1480820d7baf88500000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/veh_bochka_pricep",
+			"ExportBundleChunkIds": [
+				"c27f70a1b549b9ff00000001"
+			],
+			"BulkDataChunkIds": [
+				"c27f70a1b549b9ff00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/trees_vetkabig",
+			"ExportBundleChunkIds": [
+				"b0e80de6e9e7b04c00000001"
+			],
+			"BulkDataChunkIds": [
+				"b0e80de6e9e7b04c00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/trees_sosna",
+			"ExportBundleChunkIds": [
+				"d1ed2d83d359a57100000001"
+			],
+			"BulkDataChunkIds": [
+				"d1ed2d83d359a57100000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/trees_bark_sosna_01",
+			"ExportBundleChunkIds": [
+				"4fa2996195fa9e2900000001"
+			],
+			"BulkDataChunkIds": [
+				"4fa2996195fa9e2900000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/Tree7",
+			"ExportBundleChunkIds": [
+				"7c9ce2b98fb2eb9700000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/tree1lod",
+			"ExportBundleChunkIds": [
+				"cb4eefee0a59a1ff00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/tree-leaves-texture-png-1-Transparent-Images",
+			"ExportBundleChunkIds": [
+				"b87ab0498ebe6b3600000001"
+			],
+			"BulkDataChunkIds": [
+				"b87ab0498ebe6b3600000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/ston_stripes_iov",
+			"ExportBundleChunkIds": [
+				"71049fa1399dad4b00000001"
+			],
+			"BulkDataChunkIds": [
+				"71049fa1399dad4b00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/ston_briks_ch_iov",
+			"ExportBundleChunkIds": [
+				"2b3e0e94820c178700000001"
+			],
+			"BulkDataChunkIds": [
+				"2b3e0e94820c178700000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/ston_br2_iov",
+			"ExportBundleChunkIds": [
+				"9ba148d68f7922f800000001"
+			],
+			"BulkDataChunkIds": [
+				"9ba148d68f7922f800000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/ston_beton_ch_15",
+			"ExportBundleChunkIds": [
+				"80e6209e002cfa3100000001"
+			],
+			"BulkDataChunkIds": [
+				"80e6209e002cfa3100000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/snowtexture",
+			"ExportBundleChunkIds": [
+				"7c604031bca56c3000000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/sign_rad",
+			"ExportBundleChunkIds": [
+				"39cbe79ef75bcba400000001"
+			],
+			"BulkDataChunkIds": [
+				"39cbe79ef75bcba400000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Blueprints/AnomTeleport",
+			"ExportBundleChunkIds": [
+				"cde1c245b63b0a3100000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Rail2",
+			"ExportBundleChunkIds": [
+				"253d89aafecb1e1d00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/definition",
+			"ExportBundleChunkIds": [
+				"8feeed31c111b7e500000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/bark",
+			"ExportBundleChunkIds": [
+				"443c16f9b70652a000000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/prop_door9",
+			"ExportBundleChunkIds": [
+				"6734a80db2388f8600000001"
+			],
+			"BulkDataChunkIds": [
+				"6734a80db2388f8600000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/png-transparent-cloud-fog-white-desktop-mist-cloud-white-atmosphere-cloud-thumbnail",
+			"ExportBundleChunkIds": [
+				"281ae4d3046ed3b400000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Sounds/650f9f918d849ea",
+			"ExportBundleChunkIds": [
+				"646584333f992ee100000001"
+			],
+			"BulkDataChunkIds": [
+				"646584333f992ee100000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/metal",
+			"ExportBundleChunkIds": [
+				"762ccc9668ed7cbb00000001"
+			],
+			"BulkDataChunkIds": [
+				"762ccc9668ed7cbb00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/grnd_zemlya",
+			"ExportBundleChunkIds": [
+				"26174e91f2cc592b00000001"
+			],
+			"BulkDataChunkIds": [
+				"26174e91f2cc592b00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/grnd_j_asfalt_04a",
+			"ExportBundleChunkIds": [
+				"81aaef51f10d34b700000001"
+			],
+			"BulkDataChunkIds": [
+				"81aaef51f10d34b700000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/grnd_grass1",
+			"ExportBundleChunkIds": [
+				"22a34355b8f3e1c900000001"
+			],
+			"BulkDataChunkIds": [
+				"22a34355b8f3e1c900000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/grnd_dirt2",
+			"ExportBundleChunkIds": [
+				"3c74ad9ac77a08a100000001"
+			],
+			"BulkDataChunkIds": [
+				"3c74ad9ac77a08a100000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/door_gr_iov_01",
+			"ExportBundleChunkIds": [
+				"279c7049897effd100000001"
+			],
+			"BulkDataChunkIds": [
+				"279c7049897effd100000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/crete_schiffer3",
+			"ExportBundleChunkIds": [
+				"c42f6a02c1ac98ef00000001"
+			],
+			"BulkDataChunkIds": [
+				"c42f6a02c1ac98ef00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/concrete",
+			"ExportBundleChunkIds": [
+				"306f777f7fbbd1ca00000001"
+			],
+			"BulkDataChunkIds": [
+				"306f777f7fbbd1ca00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Textures/Bush2Lod",
+			"ExportBundleChunkIds": [
+				"84f96f8bf173d9cf00000001"
+			],
+			"BulkDataChunkIds": [
+				"84f96f8bf173d9cf00000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Block1",
+			"ExportBundleChunkIds": [
+				"f6d55e8cbe1eadb600000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/definition",
+			"ExportBundleChunkIds": [
+				"a4537aa9763a89c300000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Bark",
+			"ExportBundleChunkIds": [
+				"d9667faf043d90f500000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Skins/CMP_GlobalInfoExample1",
+			"ExportBundleChunkIds": [
+				"ebc8ff0813b5d25400000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Rusty_Shipping_Container_vl3iaiedy/Wall2",
+			"ExportBundleChunkIds": [
+				"032097b5aac092fb00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Rusty_Shipping_Container_vl3iaiedy/T_Rusty_Shipping_Container_vl3iaiedy_1K_Mat",
+			"ExportBundleChunkIds": [
+				"a2ad140f03f3703900000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Rusty_Shipping_Container_vl3iaiedy/MI_Rusty_Shipping_Container_vl3iaiedy_1K",
+			"ExportBundleChunkIds": [
+				"1e0a8dccff81f3e100000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Stone_Wall_vddjdfm/Wall",
+			"ExportBundleChunkIds": [
+				"6a5aad962f24b8e600000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Stone_Wall_vddjdfm/MI_Stone_Wall_vddjdfm_1K",
+			"ExportBundleChunkIds": [
+				"d40f6d3e20c456ba00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Mossy_Ground_xiboab2r/MI_Mossy_Ground_xiboab2r_1K",
+			"ExportBundleChunkIds": [
+				"00bfb30cf7e4b00800000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Mossy_Ground_xiboab2r/MI_Mossy_Ground_xiboab2r_1K",
+			"ExportBundleChunkIds": [
+				"46456dfb5b3cc7b100000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Grnd_lasdscape/Gravel_Ground_xdusfjy/MI_Gravel_Ground_xdusfjy_1K",
+			"ExportBundleChunkIds": [
+				"e38af79c8673dede00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Gravel_Ground_xdusfjy/MI_Gravel_Ground_xdusfjy_1K",
+			"ExportBundleChunkIds": [
+				"db1ecfc9d4d7c2e700000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Mossy_Ground_vl1lfb3fw/MI_Mossy_Ground_vl1lfb3fw_1K",
+			"ExportBundleChunkIds": [
+				"65066a2e2571f18e00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Lanscape",
+			"ExportBundleChunkIds": [
+				"fa15be3a17f049bd00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/IWood",
+			"ExportBundleChunkIds": [
+				"ef3515e8926ed43600000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Zil",
+			"ExportBundleChunkIds": [
+				"9a7447b3a23b1de400000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Veh_vagoni_cpm",
+			"ExportBundleChunkIds": [
+				"4e64d1a06a3a19ef00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Veh_vagon1_01",
+			"ExportBundleChunkIds": [
+				"78b915fef255116500000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Veh_uaz_2",
+			"ExportBundleChunkIds": [
+				"be162e79cb6140d900000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Veh_uazik",
+			"ExportBundleChunkIds": [
+				"502b862e1c2b083b00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Veh_molokovoz",
+			"ExportBundleChunkIds": [
+				"986f6b348278571400000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Veh_lada_br",
+			"ExportBundleChunkIds": [
+				"92efc79b264ecc3d00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Veh_kamaz_u_br",
+			"ExportBundleChunkIds": [
+				"b7f8cf2609225c7200000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Veh_ekskavator_kovsh",
+			"ExportBundleChunkIds": [
+				"d700c730780b1f1500000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Veh_ekskavator",
+			"ExportBundleChunkIds": [
+				"87907219c449bb8c00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Veh_bochka_pricep",
+			"ExportBundleChunkIds": [
+				"8a9f0d2e584286d900000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Trees_vetkabig",
+			"ExportBundleChunkIds": [
+				"bd9be3b37b8e602800000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Tree_sosna",
+			"ExportBundleChunkIds": [
+				"604708dfd683b1e400000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Elka_sux",
+			"ExportBundleChunkIds": [
+				"5101dfc9a72b6d1900000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Tree5/Elka_bark",
+			"ExportBundleChunkIds": [
+				"afb8e68fa6b9d24600000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Bark_sosna",
+			"ExportBundleChunkIds": [
+				"c91ea50825ed48d500000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Tree3Lod",
+			"ExportBundleChunkIds": [
+				"254cb1b13c39d6c900000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Tree1Lod",
+			"ExportBundleChunkIds": [
+				"ad5f74b7f6235a6e00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/NewMaterial_Inst",
+			"ExportBundleChunkIds": [
+				"47a1d8c31d0ee21700000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Bush",
+			"ExportBundleChunkIds": [
+				"b40810677ccb1a2400000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Ston_stripes_iov",
+			"ExportBundleChunkIds": [
+				"0986c6b2e81428e000000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Ston_briks_ch_iov",
+			"ExportBundleChunkIds": [
+				"817e4628ebeb061900000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Ston_br2_iov",
+			"ExportBundleChunkIds": [
+				"bea8d3e1b9fdac5700000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Trash",
+			"ExportBundleChunkIds": [
+				"5d8d849e97b929b800000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Ston_beton_ch_15",
+			"ExportBundleChunkIds": [
+				"60069e3405e787ab00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/RadiationSign",
+			"ExportBundleChunkIds": [
+				"2f40ff056975655600000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/RadiationSign3",
+			"ExportBundleChunkIds": [
+				"bf37ed8ebf21920900000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Prop_vagon_iov_d",
+			"ExportBundleChunkIds": [
+				"3419af63f2e0de2000000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Door9",
+			"ExportBundleChunkIds": [
+				"3aa9ae16f6aa95cf00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/SnowGround",
+			"ExportBundleChunkIds": [
+				"881218c3b66eccf600000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Fogg",
+			"ExportBundleChunkIds": [
+				"ff31a3261fa2c81200000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/IMetal",
+			"ExportBundleChunkIds": [
+				"5990831374131ade00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Grnd_zemlya",
+			"ExportBundleChunkIds": [
+				"2acb1b2908639adb00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Grnd_grass1",
+			"ExportBundleChunkIds": [
+				"81e0e4a16cd4d99900000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Grnd_j_asfalt_04a",
+			"ExportBundleChunkIds": [
+				"9fe5e27e7da2d7b100000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Grnd_dirt2",
+			"ExportBundleChunkIds": [
+				"f3301bf5b801555500000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Door2",
+			"ExportBundleChunkIds": [
+				"1d82ddb0eae24f6900000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Crete_schiffer3",
+			"ExportBundleChunkIds": [
+				"c37a5896cfd1e74600000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/IConcrete",
+			"ExportBundleChunkIds": [
+				"8fdd523f6c7db1ce00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Bush1Lod",
+			"ExportBundleChunkIds": [
+				"0223c22e20e154fc00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Materials/Lanscape_Inst",
+			"ExportBundleChunkIds": [
+				"f3caf8964b1d17f000000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Vagoni",
+			"ExportBundleChunkIds": [
+				"ba569c7db68477c400000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Merged/Base0",
+			"ExportBundleChunkIds": [
+				"a78e3f3edbc2c97700000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Merged/Base2_veh_merged",
+			"ExportBundleChunkIds": [
+				"46b1218baa07238900000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Tree5/Elka",
+			"ExportBundleChunkIds": [
+				"c666f1cad2c91df600000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Tree5/PineTree",
+			"ExportBundleChunkIds": [
+				"3fffbf6b1dcecf2100000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Tree3/tree3",
+			"ExportBundleChunkIds": [
+				"574f5d528695158d00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Tree1/Tree1",
+			"ExportBundleChunkIds": [
+				"b4f7183d19a8ff0700000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Blueprints/Door",
+			"ExportBundleChunkIds": [
+				"e68ee7212a85fff100000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Merged/SM_MERGED_Radiation-sign2_938",
+			"ExportBundleChunkIds": [
+				"bd4b26ecfcded97c00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Supply/Radiation-sign",
+			"ExportBundleChunkIds": [
+				"c02d0dae99e7652400000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Blueprints/StalkFog",
+			"ExportBundleChunkIds": [
+				"30565e49e644498f00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Blueprints/My_PlayerProxyExample",
+			"ExportBundleChunkIds": [
+				"aa0b69fdae026de000000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Bush/BushBig",
+			"ExportBundleChunkIds": [
+				"b6d3a0671f2e9bcf00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Merged/SM_MERGED_Tractor_11",
+			"ExportBundleChunkIds": [
+				"a8110b3577af7b9500000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Merged/MERGED_Fireplaces",
+			"ExportBundleChunkIds": [
+				"1eafbe5d48a7f69900000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Merged/Base2",
+			"ExportBundleChunkIds": [
+				"767b19bea6f36d9400000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Merged/Base1",
+			"ExportBundleChunkIds": [
+				"c69a2e29cff989bc00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Vagon1",
+			"ExportBundleChunkIds": [
+				"3fca4b6e48ce68ed00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Models/Bush/BushTree",
+			"ExportBundleChunkIds": [
+				"814262e418ce217b00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Blueprints/Noise",
+			"ExportBundleChunkIds": [
+				"1c350551fb94c4fe00000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Blueprints/BushNoise",
+			"ExportBundleChunkIds": [
+				"6600f3f01d7b0e1300000001"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Cordon_BuiltData",
+			"ExportBundleChunkIds": [
+				"f4f0a59b36c4ae4500000001"
+			],
+			"BulkDataChunkIds": [
+				"f4f0a59b36c4ae4500000002"
+			]
+		},
+		{
+			"Name": "/UGC3701583/SVR_GoodTime_Cordon/Cordon",
+			"ExportBundleChunkIds": [
+				"1097097f7a1291b000000001"
+			],
+			"BulkDataChunkIds": [
+				"1097097f7a1291b000000002"
+			]
+		}
+	]
+}

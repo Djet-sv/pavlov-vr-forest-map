@@ -1,0 +1,6 @@
+2024/01/26-11:33:00.569 3b08 Creating DB C:/PAVLOV/WOOD/PavlovVR-ModKit/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/01/26-11:33:00.574 3b08 Reusing MANIFEST C:/PAVLOV/WOOD/PavlovVR-ModKit/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/26-11:48:57.851 543c Level-0 table #5: started
+2024/01/26-11:48:57.854 543c Level-0 table #5: 1167 bytes OK
+2024/01/26-11:48:57.856 543c Delete type=0 #3
+2024/01/26-11:48:57.857 543c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

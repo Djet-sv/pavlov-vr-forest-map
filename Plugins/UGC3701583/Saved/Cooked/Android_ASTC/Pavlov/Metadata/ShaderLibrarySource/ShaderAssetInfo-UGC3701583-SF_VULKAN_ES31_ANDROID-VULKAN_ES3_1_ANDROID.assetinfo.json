@@ -1,0 +1,48 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "EFE7C70EA47C9F810C303E8EA4507BFE014BB92E",
+			"Assets": [
+				"/UGC3701583/SVR_GoodTime_Cordon/Materials/NewMaterial",
+				"/UGC3701583/SVR_GoodTime_Cordon/Materials/Grmd_material1"
+			]
+		},
+		{
+			"ShaderMapHash": "7128C7124EEA942DC0AA25DF579326C3F6747150",
+			"Assets": [
+				"/UGC3701583/SVR_GoodTime_Cordon/Materials/Rusty_Shipping_Container_vl3iaiedy/Wall2"
+			]
+		},
+		{
+			"ShaderMapHash": "93C3942ECED85B3BBCEC35DF397B8DA19BA00951",
+			"Assets": [
+				"/UGC3701583/SVR_GoodTime_Cordon/Materials/Rusty_Shipping_Container_vl3iaiedy/T_Rusty_Shipping_Container_vl3iaiedy_1K_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "40B0E208EB4DB75034EDA9BFD599122D9E4A2B0B",
+			"Assets": [
+				"/UGC3701583/SVR_GoodTime_Cordon/Materials/Stone_Wall_vddjdfm/Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "C5BEF5A26D4C8489DBC1E3E2969CCF5BF286A3F0",
+			"Assets": [
+				"/UGC3701583/SVR_GoodTime_Cordon/Materials/Lanscape"
+			]
+		},
+		{
+			"ShaderMapHash": "02D954BC67204F83EA6C232E0B9B20B1EF0ED048",
+			"Assets": [
+				"/UGC3701583/SVR_GoodTime_Cordon/Cordon"
+			]
+		},
+		{
+			"ShaderMapHash": "4523330318B7AA73E15DF0F9D71CDC1951245898",
+			"Assets": [
+				"/UGC3701583/SVR_GoodTime_Cordon/Cordon"
+			]
+		}
+	]
+}

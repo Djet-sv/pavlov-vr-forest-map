@@ -1,0 +1,22 @@
+{
+	"Contents": [
+		{
+			"File": "../../../Pavlov/Plugins/UGC3701583/UGC3701583.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "UGC3701583",
+				"Description": "",
+				"Category": "Map",
+				"CreatedBy": "",
+				"CreatedByURL": "",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"CanContainContent": true
+			}
+		}
+	]
+}

@@ -1,0 +1,14 @@
+C:\PAVLOV\WOOD\PavlovVR-ModKit\Build\Binaries\EpicGames.Perforce.Native.dll
+C:\PAVLOV\WOOD\PavlovVR-ModKit\Build\Binaries\EpicGames.Perforce.Native.so
+C:\PAVLOV\WOOD\PavlovVR-ModKit\Build\Binaries\EpicGames.Perforce.Native.dylib
+C:\PAVLOV\WOOD\PavlovVR-ModKit\Build\Binaries\PavlovUGCPak.Automation.deps.json
+C:\PAVLOV\WOOD\PavlovVR-ModKit\Build\Binaries\PavlovUGCPak.Automation.dll
+C:\PAVLOV\WOOD\PavlovVR-ModKit\Build\Binaries\ref\PavlovUGCPak.Automation.dll
+C:\PAVLOV\WOOD\PavlovVR-ModKit\Build\Binaries\PavlovUGCPak.Automation.pdb
+C:\PAVLOV\WOOD\PavlovVR-ModKit\Build\PavlovUGC\obj\Development\PavlovUGCPak.Automation.csproj.AssemblyReference.cache
+C:\PAVLOV\WOOD\PavlovVR-ModKit\Build\PavlovUGC\obj\Development\PavlovUGCPak.Automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAVLOV\WOOD\PavlovVR-ModKit\Build\PavlovUGC\obj\Development\PavlovUGCPak.Automation.csproj.CoreCompileInputs.cache
+C:\PAVLOV\WOOD\PavlovVR-ModKit\Build\PavlovUGC\obj\Development\PavlovUGCPak.Automation.csproj.CopyComplete
+C:\PAVLOV\WOOD\PavlovVR-ModKit\Build\PavlovUGC\obj\Development\PavlovUGCPak.Automation.dll
+C:\PAVLOV\WOOD\PavlovVR-ModKit\Build\PavlovUGC\obj\Development\refint\PavlovUGCPak.Automation.dll
+C:\PAVLOV\WOOD\PavlovVR-ModKit\Build\PavlovUGC\obj\Development\PavlovUGCPak.Automation.pdb

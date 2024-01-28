@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\PAVLOV\\WOOD\\PavlovVR-ModKit\\Source\\Pavlov.Target.cs",
+		"C:\\PAVLOV\\WOOD\\PavlovVR-ModKit\\Source\\PavlovEditor.Target.cs",
+		"C:\\PAVLOV\\WOOD\\PavlovVR-ModKit\\Source\\PavlovServer.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}
